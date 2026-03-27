@@ -2,6 +2,8 @@
 
 <div align="center">
 
+
+
 ![License](https://img.shields.io/github/license/garrytan/gstack?style=flat-square&color=blue)
 ![Claude Code](https://img.shields.io/badge/AI%20Support-Claude%20Code-6b4fbb?style=flat-square)
 ![GPT-5.4](https://img.shields.io/badge/AI%20Support-GPT--5.4-10a37f?style=flat-square)
@@ -9,6 +11,7 @@
 
 [English](#english-version) | [中文说明](README_zh.md)
 
+![gstack Cover](assets/gstack_cover_en.png)
 </div>
 
 ---

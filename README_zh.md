@@ -8,6 +8,7 @@
 ![Status](https://img.shields.io/badge/状态-生产级交付-success?style=flat-square)
 
 [English](README.md) | 中文说明
+![gstack 封面](assets/gstack_cover_zh.png)
 
 </div>
 
