@@ -103,6 +103,22 @@ gstack 的灵魂在于这三大核心工程哲学：
 
 ---
 
+
+## 💎 开箱即用：`gstack-ai-roles` 智能技能包
+
+除了静态的提示词模板外，本仓库还在 [skills/](skills/) 目录下提供了一个**开箱即用的 Agent Skill 引擎**。
+
+该引擎（符合 [Agent Skills 规范](https://agentskills.io)）将 13 个专家角色编排为一个** 6 阶段“AI 软件工厂”全自动流水线**：
+
+-   **第 1-2 阶段 (思考/规划)**：战略产品对齐与架构蓝图锁定。
+-   **第 3 阶段 (编码实施)**：精准逻辑实现与原子化提交。
+-   **第 4-5 阶段 (评审/测试)**：对抗式质量审计与浏览器压力测试。
+-   **第 6 阶段 (发布交付)**：发布治理与效能复盘。
+
+👉 **查看技能文档：** [skills/README_zh.md](skills/README_zh.md) | [skills/skill_zh/SKILL.md](skills/skill_zh/SKILL.md)
+
+---
+
 ## 🤖 多代理与跨模型协作 (Multi-Agent)
 
 gstack 遵循行业标准，可完美运行于主流 AI Agent 框架。

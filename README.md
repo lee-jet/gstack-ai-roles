@@ -107,6 +107,22 @@ This repository contains the deep-extracted prompt templates for the core engine
 
 ---
 
+
+## 💎 Ready-to-use Agent Skill: `gstack-ai-roles`
+
+In addition to the static prompt templates, this repository includes a **ready-to-use Agent Skill engine** located in the [skills/](skills/) directory. 
+
+This engine (compliant with the [Agent Skills Spec](https://agentskills.io)) orchestrates the 13 specialist roles into a **6-phase "AI Software Factory" pipeline**:
+
+-   **Phase 1-2 (Think/Plan)**: Strategic Product Alignment & Architectural Blueprint.
+-   **Phase 3 (Build)**: Precision Implementation & Atomic Commits.
+-   **Phase 4-5 (Review/Test)**: Adversarial Audit & Functional Stress Testing.
+-   **Phase 6 (Ship)**: Release Governance & Retrospective.
+
+👉 **View the Skill Documentation:** [skills/README.md](skills/README.md) | [skills/SKILL.md](skills/SKILL.md)
+
+---
+
 ## 🤖 Multi-Agent & Cross-Model Support
 
 gstack runs seamlessly across multiple AI agents for maximum adversarial review.

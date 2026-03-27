@@ -1,0 +1,30 @@
+{
+  "name": "gstack-ai-roles",
+  "version": "1.2.0",
+  "description": "Elite 6-phase engineering production engine with 'Boil the Lake' philosophy and Garry Tan's specialist roles. Optimizes Claude Code, Cursor, and Codex with the gstack-ai-roles suite.",
+  "author": "gstack Community",
+  "keywords": [
+    "agent-skills",
+    "gstack",
+    "elite-engineering",
+    "software-factory",
+    "10-star-journey",
+    "code-audit",
+    "adversarial-review",
+    "claude-code",
+    "codex",
+    "cursor"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garrytan/gstack.git"
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "README_zh.md",
+    "references/",
+    "skill_zh/"
+  ]
+}
